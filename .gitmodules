@@ -1,0 +1,21 @@
+[submodule "GitHack"]
+	path = GitHack
+	url = https://github.com/hazzel-cn/GitHack
+[submodule "dumpall"]
+	path = dumpall
+	url = https://github.com/0xHJK/dumpall
+[submodule "GitHacker"]
+	path = GitHacker
+	url = https://github.com/WangYihang/GitHacker
+[submodule "dvcs-ripper"]
+	path = dvcs-ripper
+	url = https://github.com/kost/dvcs-ripper
+[submodule "githog"]
+	path = githog
+	url = https://github.com/jercos/githog
+[submodule "go-rip-git"]
+	path = go-rip-git
+	url = https://github.com/RonniSkansing/go-rip-git
+[submodule "GitTools"]
+	path = GitTools
+	url = https://github.com/internetwache/GitTools
